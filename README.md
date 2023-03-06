@@ -9,7 +9,11 @@ Includes API documentation using Swagger
 
 # methods
 GET /users - retrieves a list of all users
+
 GET /users/{id} - retrieves a specific user by ID
+
 POST /users - creates a new user
+
 PUT /users/{id} - updates an existing user by ID
+
 DELETE /users/{id} - deletes an existing user by ID
